@@ -1,0 +1,42 @@
+[
+    {
+        "BookId" : 1,
+        "Bookname" : "Wings of Fire",
+        "Author" : "A.P.J Abdul Kalam"
+    },
+    {
+        "BookId" : 2,
+        "Bookname" : "India 2020",
+        "Author" : "A.P.J Abdul Kalam"
+    },
+    {
+        "BookId" : 3,
+        "Bookname" : "Spirit of India",
+        "Author" : "A.P.J Abdul Kalam"
+    },
+    {
+        "BookId" : 4,
+        "Bookname" : "Fourty Nine Days",
+        "Author" : "Amrita Pritam"
+    },
+    {
+        "BookId" : 6,
+        "Bookname" : "Kalpana Chawla - A Life",
+        "Author" : "Anil Padmanaban"
+    },
+    {
+        "BookId" : 7,
+        "Bookname" : "The 3 Mistakes of my life",
+        "Author" : "Chetan Bhagat"
+    },
+    {
+        "BookId" : 8,
+        "Bookname" : "Five Point Someone",
+        "Author" : "Chetan Bhagat"
+    },
+    {
+        "BookId" : 9,
+        "Bookname" : "Inspired talks",
+        "Author" : "Swami Vivekananda"
+    }
+]
