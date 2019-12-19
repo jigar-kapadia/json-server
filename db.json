@@ -44,16 +44,16 @@
  {
     "name": "Jigar Kapadia",
     "email": "jigar@gmail.com",
-    "contact": 90343,
+    "contact": "90343",
     "city" : "Mumbai",
-    "id" : 1
+    "id" : "1"
 },
      {
     "name": "Frank Lampard",
     "email": "frank@gmail.com",
-    "contact": 003432,
+    "contact": "003432",
     "city" : "London",
-    "id" : 2
+    "id" : "2"
 }
  ]
 }
